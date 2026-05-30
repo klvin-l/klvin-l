@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **klvin-l/klvin-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey there! 👋
+
+I'm a student studying electrical engineering, 
+computing, and mathematics.
+
+I build things at the intersection of ML systems, 
+signal processing, and quantitative finance. 
+If an idea is interesting enough, I'll probably try to build it.
+
+**Currently working on:**
+- GPT from scratch in C — implementing backprop, 
+  attention, and training from scratch
+- Polymarket prediction strategy — probability calibration 
+  and Kelly criterion betting
+- RAG financial research agent — SEC filings, 
+  FAISS vector search, FastAPI + React
+
+**Tools I use:**
+Python, PyTorch, C/C++, CUDA, React, 
+Node.js, MongoDB, FastAPI, Git
+
+**Fun facts:**
+- I lift weights and swim
+- I speak three languages
+- I like stargazing and photography
