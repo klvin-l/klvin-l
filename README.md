@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm Kelvin — a student studying electrical engineering, computing, and mathematics.
 
-I build things at the intersection of ML systems, signal processing, and finance.
+I build things relating to ML systems, signal processing, and finance.
 If an idea is interesting enough, I'll probably try to build it.
 
 ---
