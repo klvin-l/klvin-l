@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there! 👋
+## Hey there! 👋
 
-I'm a student studying electrical engineering, 
+I'm Kelvin and I'm a student studying electrical engineering, 
 computing, and mathematics.
 
 I build things at the intersection of ML systems, 
