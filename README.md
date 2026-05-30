@@ -14,33 +14,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey there! 👋
+Hey there! 👋
 
-I'm Kelvin — a student studying electrical engineering, computing, and mathematics.
+I'm Kelvin, and I'm a student studying electrical engineering, 
+computing, and mathematics.
 
-I build things relating to ML systems, signal processing, and finance.
+I build things related to ML systems, 
+signal processing, and quantitative finance. 
 If an idea is interesting enough, I'll probably try to build it.
 
----
+**Currently working on:**
+- GPT from scratch in C — implementing backprop, 
+  attention, and training from scratch
+- Polymarket prediction strategy — probability calibration 
+  and Kelly criterion betting
+- RAG financial research agent — SEC filings, 
+  FAISS vector search, FastAPI + React
+  
+**Tools I use:**
+Python, PyTorch, C/C++, CUDA, React, 
+Node.js, MongoDB, FastAPI, Git
 
-### 🔭 Currently building
-
-| Project | Description |
-|---|---|
-| **GPT from scratch in C** | Backprop, attention, and training loop — no libraries |
-| **Polymarket prediction strategy** | Probability calibration and Kelly criterion betting |
-| **RAG financial research agent** | SEC filings, FAISS vector search, FastAPI + React |
-
----
-
-### 🛠 Tools
-
-`Python` `PyTorch` `C/C++` `CUDA` `React` `Node.js` `MongoDB` `FastAPI` `Git`
-
----
-
-### ⚡ Fun facts
-
+**Fun facts:**
 - I lift weights and swim
 - I speak three languages
 - I like stargazing and photography
